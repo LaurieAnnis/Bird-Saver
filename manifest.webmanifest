@@ -1,11 +1,11 @@
 {
-    "name": "Bird Match",
-    "short_name": "Bird Match",
+    "name": "Bird Saver",
+    "short_name": "Bird Saver",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#CCCCCC",
     "theme_color": "#fff",
-    "description": "",
+    "description": "Games by Mostly Harmless Adventurers",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-light.png",
       "sizes": "144x144",
