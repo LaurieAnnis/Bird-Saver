@@ -1,6 +1,6 @@
 {
-    "name": "Bird Match",
-    "short_name": "Bird Match",
+    "name": "Birds Saver",
+    "short_name": "Birds Saver",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#CCCCCC",
